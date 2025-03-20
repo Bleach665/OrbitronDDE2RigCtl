@@ -20,6 +20,9 @@ save `Setup.cfg`, launch `Orbitron`, go to `Rotor/Radio` tab, select in `Driver`
 ![Orbitron_wMciyIQib9](https://github.com/user-attachments/assets/691cecae-72e5-4473-8837-ae6a2a30163e)
 
 - in SDR++ install plugin `Rigctl server`
+
+ ![sdrpp_gnZ5STBGUT](https://github.com/user-attachments/assets/96ed3460-12b4-441d-95e3-703a1694e13d)
+ 
 - Thats all. Now every several seconds active frequency in SDR++ will be changed to downlink of satellite selected in Obitron. With doppler correction.
 
 
